@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MCommerce</string>
+    <string name="cd_image_product">Image Product</string>
+    <string name="label_product_name">Label Product Name</string>
+    <string name="search_by_name">Search Product by Name</string>
+    <string name="cd_add">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_stock">Product Stock</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_image_link">Image URL</string>
+    <string name="add_product">Add Product</string>
+    <string name="cd_image_more">More Action</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu">Menu</string>
+    <string name="cd_edit">Edit</string>
+    <string name="update_stock">Update Stock</string>
+    <string name="cd_divider">Divider</string>
+    <string name="update_product">Update Product</string>
+    <string name="purchase_product">Purchase Product</string>
+    <string name="cd_cart">Button Cart</string>
+    <string name="quantity">Quantity</string>
+    <string name="one">1</string>
+    <string name="purchase">Purchase</string>
+    <string name="history">History</string>
+    <string name="cd_back">Back</string>
+    <string name="invoice_number">Invoice Number</string>
+    <string name="check">Check</string>
+    <string name="invoice_date">Invoice Date</string>
+    <string name="thank_you_for_shopping">Thank you for shopping!</string>
+    <string name="yeay">Yeay!</string>
+    <string name="your_order_has_been_placed">Your order has been placed</string>
+    <string name="your_will_be_directed_to_home_page_in_5_seconds">Your will be directed to home page in 5 seconds</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="cart">Cart</string>
+</resources>
